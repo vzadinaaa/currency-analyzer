@@ -55,29 +55,53 @@ jobs:
 
         run: mvn jacoco:report
 
-      - name: Extract branch coverage
+      - name: Extract coverage percentage
         id: coverage
         run: |
-          BRANCH_MISSED=$(grep -oP '<counter type="BRANCH" missed="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
-          BRANCH_COVERED=$(grep -oP '<counter type="BRANCH" missed="[0-9]+" covered="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
+          pip install lxml --quiet
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET
+          tree = ET.parse("target/site/jacoco/jacoco.xml")
+          root = tree.getroot()
 
-          TOTAL=$((BRANCH_MISSED + BRANCH_COVERED))
-          COVERAGE=$(awk "BEGIN { printf \"%.2f\", ($BRANCH_COVERED / $TOTAL) * 100 }")
+          def get_pct(type):
+              for c in root.findall("counter"):
+                  if c.get("type") == type:
+                      covered = int(c.get("covered"))
+                      missed = int(c.get("missed"))
+                      total = covered + missed
+                      return covered / total * 100 if total else 0
+              return 0
 
-          echo "coverage=$COVERAGE" >> $GITHUB_OUTPUT
+          line = get_pct("LINE")
+          branch = get_pct("BRANCH")
 
-      - name: Comment PR with branch coverage
+          print(f"LINE={line}")
+          print(f"BRANCH={branch}")
+
+          with open("coverage.txt", "w") as f:
+              f.write(f"{line:.1f}% (lines), {branch:.1f}% (branches)")
+          EOF
+
+      - name: Comment coverage on PR
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
-            const coverage = "${{ steps.coverage.outputs.coverage }}";
+            const fs = require('fs');
+            const summary = fs.readFileSync('coverage.txt', 'utf8');
 
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `## JaCoCo Branch Coverage
+              body: `### 📊 Coverage\n**${summary}**`
+            });
 
-              Branch coverage: **${coverage}%**`
-            })
+      - name: Upload JaCoCo HTML report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jacoco-report
+          path: target/site/jacoco/
+          retention-days: 14

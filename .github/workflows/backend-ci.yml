@@ -55,7 +55,7 @@ jobs:
 
         run: mvn jacoco:report
 
-      - name: Extract branch coverage
+      - name: Extract branch coverage2
         id: coverage
         run: |
           BRANCH_MISSED=$(grep -oP '<counter type="BRANCH" missed="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)

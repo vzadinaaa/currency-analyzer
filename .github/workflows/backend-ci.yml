@@ -15,6 +15,11 @@ on:
       - main
       - develop
 
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
 jobs:
 
   build:
@@ -55,29 +60,63 @@ jobs:
 
         run: mvn jacoco:report
 
-      - name: Extract branch coverage
+      - name: Extract coverage metrics
+
         id: coverage
+
         run: |
+
+          LINE_MISSED=$(grep -oP '<counter type="LINE" missed="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
+          LINE_COVERED=$(grep -oP '<counter type="LINE" missed="[0-9]+" covered="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
+
           BRANCH_MISSED=$(grep -oP '<counter type="BRANCH" missed="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
           BRANCH_COVERED=$(grep -oP '<counter type="BRANCH" missed="[0-9]+" covered="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
 
-          TOTAL=$((BRANCH_MISSED + BRANCH_COVERED))
-          COVERAGE=$(awk "BEGIN { printf \"%.2f\", ($BRANCH_COVERED / $TOTAL) * 100 }")
+          INSTR_MISSED=$(grep -oP '<counter type="INSTRUCTION" missed="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
+          INSTR_COVERED=$(grep -oP '<counter type="INSTRUCTION" missed="[0-9]+" covered="\K[0-9]+' target/site/jacoco/jacoco.xml | head -1)
 
-          echo "coverage=$COVERAGE" >> $GITHUB_OUTPUT
+          LINE_TOTAL=$((LINE_MISSED + LINE_COVERED))
+          BRANCH_TOTAL=$((BRANCH_MISSED + BRANCH_COVERED))
+          INSTR_TOTAL=$((INSTR_MISSED + INSTR_COVERED))
 
-      - name: Comment PR with branch coverage
+          LINE_COVERAGE=$(awk "BEGIN { printf \"%.2f\", ($LINE_COVERED / $LINE_TOTAL) * 100 }")
+          BRANCH_COVERAGE=$(awk "BEGIN { printf \"%.2f\", ($BRANCH_COVERED / $BRANCH_TOTAL) * 100 }")
+          INSTR_COVERAGE=$(awk "BEGIN { printf \"%.2f\", ($INSTR_COVERED / $INSTR_TOTAL) * 100 }")
+
+          echo "line_coverage=$LINE_COVERAGE" >> $GITHUB_OUTPUT
+          echo "branch_coverage=$BRANCH_COVERAGE" >> $GITHUB_OUTPUT
+          echo "instruction_coverage=$INSTR_COVERAGE" >> $GITHUB_OUTPUT
+
+      - name: Comment PR with coverage report
+
         if: github.event_name == 'pull_request'
+
         uses: actions/github-script@v7
+
         with:
+
           script: |
-            const coverage = "${{ steps.coverage.outputs.coverage }}";
+
+            const lineCoverage = "${{ steps.coverage.outputs.line_coverage }}";
+            const branchCoverage = "${{ steps.coverage.outputs.branch_coverage }}";
+            const instructionCoverage = "${{ steps.coverage.outputs.instruction_coverage }}";
 
             github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `## JaCoCo Branch Coverage
 
-              Branch coverage: **${coverage}%**`
-            })
+              issue_number: context.issue.number,
+
+              owner: context.repo.owner,
+
+              repo: context.repo.repo,
+
+              body: `## 📊 JaCoCo Coverage Report
+
+            | Metric | Coverage |
+            |---|---|
+            | 🌿 Branch Coverage | **${branchCoverage}%** |
+            | 📄 Line Coverage | **${lineCoverage}%** |
+            | ⚙️ Instruction Coverage | **${instructionCoverage}%** |
+            
+            ---
+            Generated automatically by GitHub Actions.`
+                        })

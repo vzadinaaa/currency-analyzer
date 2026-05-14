@@ -9,6 +9,9 @@ import java.time.LocalDateTime;
 @Service
 public class CalculationLogService {
 
+        private static final String
+DATA_PATH = "/var/data/";
+
     public void saveCalculation(
 
             String base,

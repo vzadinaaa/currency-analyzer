@@ -9,6 +9,9 @@ import java.security.MessageDigest;
 @Service
 public class AuthService {
 
+        private static final String
+DATA_PATH = "/var/data/";
+
     public boolean login(
 
             String username,
@@ -22,7 +25,8 @@ public class AuthService {
 
                     new BufferedReader(
                             new FileReader(
-                                    "users.txt"
+                                    DATA_PATH
+        + "users.txt"
                             )
                     );
 

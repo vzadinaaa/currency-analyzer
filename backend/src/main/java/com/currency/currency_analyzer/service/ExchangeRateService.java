@@ -25,6 +25,9 @@ import org.springframework.http.ResponseEntity;
 @Service
 public class ExchangeRateService {
 
+        private static final String
+DATA_PATH = "/var/data/";
+
     private HistoricalRatesResponse
             cachedHistoricalResponse;
 
@@ -122,7 +125,8 @@ public class ExchangeRateService {
             objectMapper.writeValue(
 
                     new File(
-                            "cached_rates.json"
+                             DATA_PATH
+        + "cached_rates.json"
                     ),
 
                     response
@@ -140,7 +144,8 @@ public class ExchangeRateService {
                         objectMapper.readValue(
 
                                 new File(
-                                        "cached_rates.json"
+                                         DATA_PATH
+        + "cached_rates.json"
                                 ),
 
                                 ExchangeRateResponse.class
@@ -241,7 +246,8 @@ public class ExchangeRateService {
         objectMapper.writeValue(
 
         new File(
-                "cached_historical_rates.json"
+                DATA_PATH
+        + "cached_historical_rates.json"
         ),
 
         response
@@ -259,7 +265,8 @@ public class ExchangeRateService {
             objectMapper.readValue(
 
                     new File(
-                            "cached_historical_rates.json"
+                            DATA_PATH
+        + "cached_historical_rates.json"
                     ),
 
                     Map.class

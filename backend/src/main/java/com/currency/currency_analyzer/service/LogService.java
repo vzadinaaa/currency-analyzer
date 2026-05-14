@@ -9,12 +9,17 @@ import java.time.LocalDateTime;
 @Service
 public class LogService {
 
+    private static final String
+DATA_PATH = "/var/data/";
+
     public void logError(String message) {
 
         try {
 
             FileWriter writer =
-                    new FileWriter("logs.txt", true);
+                    new FileWriter(DATA_PATH
+        + "logs.txt",
+        true);
 
             writer.write(
                     LocalDateTime.now()

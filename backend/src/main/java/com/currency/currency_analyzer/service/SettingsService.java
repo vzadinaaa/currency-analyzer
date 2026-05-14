@@ -11,6 +11,9 @@ import java.io.File;
 @Service
 public class SettingsService {
 
+        private static final String
+DATA_PATH = "/var/data/";
+
     private static final String
             FILE_NAME =
             "settings.json";
@@ -24,7 +27,8 @@ public class SettingsService {
         try {
 
             File file =
-                    new File(FILE_NAME);
+                    new File( DATA_PATH
+        + "settings.json");
 
             if (!file.exists()) {
 
@@ -64,7 +68,8 @@ public class SettingsService {
         try {
 
             objectMapper.writeValue(
-                    new File(FILE_NAME),
+                    new File( DATA_PATH
+        + "settings.json"),
                     settings
             );
 

@@ -47,9 +47,9 @@ public class SecurityConfig {
         configuration.setAllowedOrigins(
                 List.of(
 
-                        "http://localhost:5173",
+                        "http://34.147.171.241",
 
-                        "https://TVUJ-FRONTEND.vercel.app"
+                        "http://localhost:5173"
                 )
         );
 

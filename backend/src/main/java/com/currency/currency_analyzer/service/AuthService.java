@@ -79,7 +79,7 @@ public class AuthService {
         return false;
     }
 
-    private String hashPassword(
+    String hashPassword(
             String password
     ) {
 

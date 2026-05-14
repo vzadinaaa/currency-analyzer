@@ -33,6 +33,8 @@ public class ExchangeRateService {
     private final CalculationLogService
             calculationLogService;
 
+    private final RestTemplate restTemplate;
+
     @Value("${exchange.api.key}")
     private String apiKey;
 
@@ -45,17 +47,22 @@ public class ExchangeRateService {
 
     public ExchangeRateService(
 
-            LogService logService,
+        LogService logService,
 
-            CalculationLogService calculationLogService
-    ) {
+        CalculationLogService calculationLogService,
 
-        this.logService =
-                logService;
+        RestTemplate restTemplate
+) {
 
-        this.calculationLogService =
-                calculationLogService;
-    }
+    this.logService =
+            logService;
+
+    this.calculationLogService =
+            calculationLogService;
+
+    this.restTemplate =
+            restTemplate;
+}
 
     public ExchangeRateResponse
     getLatestRates() {
@@ -66,8 +73,7 @@ public class ExchangeRateService {
                 + "&source=EUR"
                 + "&currencies=USD,CZK,GBP";
 
-        RestTemplate restTemplate =
-                new RestTemplate();
+        
 
         try {
 
@@ -99,8 +105,7 @@ public class ExchangeRateService {
                 + "&source=" + base
                 + "&currencies=" + symbols;
 
-        RestTemplate restTemplate =
-                new RestTemplate();
+        
 
         ExchangeRateResponse response;
 
@@ -201,8 +206,7 @@ public class ExchangeRateService {
                 + "&date=" + date
                 + "&source=" + base;
 
-        RestTemplate restTemplate =
-                new RestTemplate();
+        
 
         Map response;
 
@@ -495,8 +499,7 @@ return analysis;
                 + "&date=" + date
                 + "&source=" + base;
 
-        RestTemplate restTemplate =
-                new RestTemplate();
+        
 
         Map response;
 

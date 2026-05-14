@@ -12,7 +12,19 @@ import java.io.File;
 public class SettingsService {
 
         private static final String
-DATA_PATH = "/var/data/";
+DATA_PATH =
+
+        System.getProperty("os.name")
+                .toLowerCase()
+                .contains("win")
+
+        ?
+
+        "C:/var/data/"
+
+        :
+
+        "/var/data/";
 
     private static final String
             FILE_NAME =

@@ -10,7 +10,19 @@ import java.time.LocalDateTime;
 public class LogService {
 
     private static final String
-DATA_PATH = "/var/data/";
+DATA_PATH =
+
+        System.getProperty("os.name")
+                .toLowerCase()
+                .contains("win")
+
+        ?
+
+        "C:/var/data/"
+
+        :
+
+        "/var/data/";
 
     public void logError(String message) {
 

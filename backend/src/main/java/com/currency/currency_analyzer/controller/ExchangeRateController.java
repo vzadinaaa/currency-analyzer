@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://currency-analyzer-theta.vercel.app/")
 
 @RestController
 public class ExchangeRateController {

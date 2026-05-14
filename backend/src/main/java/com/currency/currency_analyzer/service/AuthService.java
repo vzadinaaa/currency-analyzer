@@ -9,8 +9,20 @@ import java.security.MessageDigest;
 @Service
 public class AuthService {
 
-        private static final String
-DATA_PATH = "/var/data/";
+       private static final String
+DATA_PATH =
+
+        System.getProperty("os.name")
+                .toLowerCase()
+                .contains("win")
+
+        ?
+
+        "C:/var/data/"
+
+        :
+
+        "/var/data/";
 
     public boolean login(
 

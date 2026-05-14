@@ -6,7 +6,19 @@ import org.springframework.stereotype.Service;
 public class AuthTokenService {
 
     private static final String
-DATA_PATH = "/var/data/";
+DATA_PATH =
+
+        System.getProperty("os.name")
+                .toLowerCase()
+                .contains("win")
+
+        ?
+
+        "C:/var/data/"
+
+        :
+
+        "/var/data/";
 
     private static final String TOKEN =
             "currency-analyzer-token";

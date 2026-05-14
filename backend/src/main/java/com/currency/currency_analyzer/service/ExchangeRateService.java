@@ -26,7 +26,19 @@ import org.springframework.http.ResponseEntity;
 public class ExchangeRateService {
 
         private static final String
-DATA_PATH = "/var/data/";
+DATA_PATH =
+
+        System.getProperty("os.name")
+                .toLowerCase()
+                .contains("win")
+
+        ?
+
+        "C:/var/data/"
+
+        :
+
+        "/var/data/";
 
     private HistoricalRatesResponse
             cachedHistoricalResponse;

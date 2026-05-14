@@ -1,0 +1,2136 @@
+========================
+Time: 2026-05-14T06:29:15.829440800
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:30:13.414710500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:30:13.452593400
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:31:07.439108500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:31:07.479005700
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:31:07.482004600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:36:08.674944600
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:36:08.687400800
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:36:08.687400800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:43:54.269537
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:43:54.280178900
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:43:54.285664600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:43:54.290256100
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:47:37.298515100
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:47:37.303758
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:47:37.305496600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:47:37.305496600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:48:22.832461
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:48:22.840214600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:48:22.843214600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:48:22.850213900
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:49:40.153848200
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:49:40.163765700
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:49:40.168715700
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T06:49:40.168715700
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:49:40.173746800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:49:40.178855600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:54:48.839260
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:54:48.839260
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T06:54:48.851083700
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:54:48.851083700
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:54:48.851083700
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T06:54:48.860489300
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T06:54:48.864510600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:54:48.866521100
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:54:48.866521100
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:54:48.866521100
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T06:56:20.795228500
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T06:56:21.525942100
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:56:21.527953100
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:56:21.527953100
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:56:21.533726300
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T06:58:04.281475800
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T06:58:04.283476400
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T06:58:04.290113500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:58:04.295455800
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:58:04.298238100
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T06:58:04.299354900
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T06:58:05.032336300
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T06:58:05.032336300
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T06:58:05.032336300
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T06:58:05.032336300
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:00:35.959432800
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:00:35.964119400
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:00:35.965805200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:00:35.966891700
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:00:35.969230600
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:00:35.970589
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:00:36.714397400
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:00:36.714397400
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:00:36.714397400
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:00:36.730053100
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:01:39.003243300
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:01:39.014497700
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:01:39.017401900
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:01:39.017401900
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:01:39.017401900
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:01:39.017401900
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:01:39.760845300
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:01:39.760845300
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:01:39.760845300
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:01:39.766533800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:02:55.611842
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:02:55.614545500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:02:55.614545500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:02:55.619795600
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:02:55.619795600
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:02:55.621802900
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:02:56.355662800
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:02:56.355662800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:02:56.355662800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:02:56.355662800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:04:14.996188
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:04:15.000634300
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:04:15.003151500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:04:15.004158700
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:04:15.006159300
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:04:15.008160600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:04:15.721576900
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:04:16.077786100
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:04:16.078791400
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:04:16.417804800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:04:27.605759
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:04:27.609757500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:04:27.610758200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:04:27.612758300
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:04:27.614757300
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:04:27.615758100
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:04:28.321467500
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:04:28.692142800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:04:28.693140600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:04:29.036796600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:07:50.673215100
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:07:50.687971
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:07:50.687971
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:07:50.687971
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:07:50.687971
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:07:50.703850
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:07:51.364396600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:07:51.694691200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:07:51.704198700
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:07:52.042984100
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:09:23.024771400
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:09:23.027776
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:09:23.027776
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:09:23.027776
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:09:23.377333
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:09:23.377333
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:09:24.124811900
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:09:24.494013900
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:09:24.498016800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:09:24.863750800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:10:04.763109700
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:10:04.763109700
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:10:04.763109700
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:10:04.763109700
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:10:05.147787700
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:10:05.147787700
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:10:05.818582100
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:10:06.173015800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:10:06.173015800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:10:06.538458900
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:11:17.689047
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:11:17.693914300
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:11:17.693914300
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:11:17.698122600
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:11:17.698945700
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:11:17.698945700
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:11:18.404200400
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:11:18.715155300
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:11:18.715155300
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:11:19.033892800
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:12:35.787827400
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:12:35.792186800
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:12:35.792186800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:12:35.792186800
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:12:35.792186800
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:12:35.792186800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:12:36.450404700
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:12:36.779289500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:12:36.795314600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:12:37.168274200
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:13:13.166775300
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:13:13.166775300
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:13:13.174227800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:13:13.174227800
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:13:13.174227800
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:13:13.174227800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:13:13.883868200
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:13:14.223828800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:13:14.223828800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:13:14.563708300
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:15:43.718001500
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:15:44.441161300
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:15:44.783015900
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:15:44.783613200
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:15:45.123284600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:16:19.040072300
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:16:19.046114400
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:16:19.048246300
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:16:19.048920900
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:16:19.051957200
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:16:19.054215
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:16:19.751563300
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:16:20.071553700
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:16:20.087296200
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:16:20.430400400
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:17:03.865211800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:17:04.645484900
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:17:04.988045
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:04.988045
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:05.321487200
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:17:29.198915
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:17:29.198915
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:17:29.198915
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:29.214706600
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:29.214706600
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:17:29.214706600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:17:29.997357600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:17:30.322344400
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:30.324351100
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:30.643892900
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:17:57.734919200
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:17:57.734919200
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:17:57.734919200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:57.734919200
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:57.734919200
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:17:57.750705
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:17:58.462785600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:17:58.788696100
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:17:58.788696100
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:17:59.146887300
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:18:31.433387900
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:18:31.438655500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:18:31.440655
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:18:31.443655400
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:18:31.446659
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:18:31.449684700
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:18:32.251995600
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:18:32.591721500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:18:32.593703600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:18:32.939800100
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:24:50.821669500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:24:50.837537200
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:24:50.837537200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:24:50.837537200
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:24:50.837537200
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:24:50.837537200
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:24:51.053052500
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:24:51.053052500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:24:51.053052500
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:24:51.068857
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:29:26.767783
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:29:26.767783
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:29:26.767783
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:29:26.783866600
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:29:26.783866600
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:29:26.783866600
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:29:27.034755300
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:29:27.039230200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:29:27.039230200
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:29:27.048425600
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:30:33.228917600
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:30:33.228917600
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:30:33.228917600
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:30:33.244570500
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:30:33.244570500
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:30:33.244570500
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:30:33.313249500
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:30:33.313249500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:30:33.313249500
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:30:33.328903300
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+
+========================
+Time: 2026-05-14T07:31:57.580724500
+Base currency: EUR
+Selected currencies: EUR,USD
+Strongest currency: USD
+Weakest currency: EUR
+Average: 1.1
+
+========================
+Time: 2026-05-14T07:31:57.580724500
+Base currency: EUR
+Selected currencies: EUR
+Strongest currency: EUR
+Weakest currency: EUR
+Average: 1.0
+
+========================
+Time: 2026-05-14T07:31:57.580724500
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:31:57.596514800
+Base currency: EUR
+Selected currencies: XYZ
+Strongest currency: 
+Weakest currency: XYZ
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:31:57.596514800
+Base currency: EUR
+Selected currencies:  USD 
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.2
+
+========================
+Time: 2026-05-14T07:31:57.596514800
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: USD
+Weakest currency: USD
+Average: 1.5
+
+========================
+Time: 2026-05-14T07:31:57.659547200
+Base currency: EUR
+Selected currencies: USD,CZK,GBP
+Strongest currency: CZK
+Weakest currency: GBP
+Average: 9.0
+
+========================
+Time: 2026-05-14T07:31:57.659547200
+Base currency: EUR
+Selected currencies: 
+Strongest currency: 
+Weakest currency: 
+Average: NaN
+
+========================
+Time: 2026-05-14T07:31:57.659547200
+Base currency: EUR
+Selected currencies: USD
+Strongest currency: 
+Weakest currency: USD
+Average: 0.0
+
+========================
+Time: 2026-05-14T07:31:57.675241400
+Base currency: EUR
+Selected currencies: USD,INVALID
+Strongest currency: USD
+Weakest currency: INVALID
+Average: 0.6
+

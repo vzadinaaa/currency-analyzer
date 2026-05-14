@@ -251,7 +251,7 @@ function App() {
   }
 
   fetch(
-    "http://localhost:8080/api/settings",
+    "https://currency-analyzer-aa0c.onrender.com/api/settings",
     {
       headers: {
         Authorization: token
@@ -341,7 +341,7 @@ function App() {
     setError("");
 
     fetch(
-      `http://localhost:8080/api/analysis?base=${base}&symbols=${symbols}`,
+      `https://currency-analyzer-aa0c.onrender.com/api/analysis?base=${base}&symbols=${symbols}`,
       {
         headers: {
           Authorization:
@@ -393,7 +393,7 @@ function App() {
     setError("");
 
     fetch(
-      `http://localhost:8080/api/analysis/historical?base=${base}&symbols=${symbols}&date=${selectedDate}`,
+      `https://currency-analyzer-aa0c.onrender.com/api/analysis/historical?base=${base}&symbols=${symbols}&date=${selectedDate}`,
       {
         headers: {
           Authorization:
@@ -438,7 +438,7 @@ function App() {
     setLoginLoading(true);
 
     fetch(
-      "http://localhost:8080/api/login",
+      "https://currency-analyzer-aa0c.onrender.com/api/login",
       {
 
         method: "POST",
@@ -1068,7 +1068,7 @@ function App() {
             onClick={() => {
 
               fetch(
-                "http://localhost:8080/api/settings",
+                "https://currency-analyzer-aa0c.onrender.com/api/settings",
                 {
 
                   method: "POST",
